@@ -1,4 +1,5 @@
 # `here`
+[![Build Status](https://travis-ci.org/yamadapc/here.svg?branch=master)](https://travis-ci.org/yamadapc/here)
 
 `here` is a package that adds support for multi-line string literals (a.k.a. "here docs") and string interpolation to Haskell via GHC's `QuasiQuotes` extension.
 
