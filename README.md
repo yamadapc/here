@@ -1,5 +1,13 @@
 # `here`
 [![Build Status](https://travis-ci.org/yamadapc/here.svg?branch=master)](https://travis-ci.org/yamadapc/here)
+![](https://img.shields.io/badge/ghc-7.6.3-brightgreen.svg)
+![](https://img.shields.io/badge/ghc-7.8.4-brightgreen.svg)
+![](https://img.shields.io/badge/ghc-7.10.3-brightgreen.svg)
+![](https://img.shields.io/badge/ghc-7.8.4.OSX-brightgreen.svg)
+![](https://img.shields.io/badge/ghc-7.10.2.OSX-brightgreen.svg)
+![](https://img.shields.io/badge/ghc-7.10.3.OSX-brightgreen.svg)
+![](https://img.shields.io/badge/ghc-HEAD-brightgreen.svg)
+![](https://img.shields.io/badge/ghc-HEAD.OSX-brightgreen.svg)
 
 `here` is a package that adds support for multi-line string literals (a.k.a. "here docs") and string interpolation to Haskell via GHC's `QuasiQuotes` extension.
 
